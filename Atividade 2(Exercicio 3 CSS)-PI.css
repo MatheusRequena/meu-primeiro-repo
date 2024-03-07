@@ -1,0 +1,31 @@
+.divA{
+    background-color: #7b0386; 
+    width: 200px; 
+    height: 100px;
+  }
+  
+  .divB{
+    background-color: #aff7eb; 
+    width: 40%; 
+    height: 30%;
+  }
+  
+  .prgfC{
+    color: orangered; 
+    background-color: rebeccapurple; 
+    font-size: 37px; 
+    font-family: Helvetica; 
+    font-weight: 39px;
+  }
+  
+  .divD{
+    width: 42%; 
+    height: 35px; 
+    background-color: rgb(32, 180, 12);
+  }
+  
+  .divE{
+    width: 27px; 
+    height: 47%; 
+    background-color: rgb(10, 154, 173);
+  }
